@@ -1,0 +1,50 @@
+0 babbb
+0 babbb
+0 babbb
+2 bbb
+2 bbb
+0 bbb
+0 bbb
+0 bbb
+2 b
+4 b
+6 
+6
+0 bababa
+0
+0 bbbab
+2 bab
+0 bab
+2 b
+4 b
+0 b
+0 b
+0 b
+0 b
+4 b
+6 
+6
+2 bbb
+4 b
+0 b
+0 b
+4 b
+0 b
+0 b
+0 b
+0 b
+4 b
+6 
+6
+2 abbb
+0 aaabbb
+0 aaabbb
+0 aaabbb
+0 aaabbb
+0 aaabbb
+0 aaabbb
+2 abbb
+0 aaabbb
+0 aaabbb
+0 aaaabbb
+0
