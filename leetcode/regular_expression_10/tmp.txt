@@ -1,0 +1,16 @@
+diff --git a/regular_expression_10/regex_slow.py b/regular_expression_10/regex_slow.py
+index 5811173..c3eb38d 100644
+--- a/regular_expression_10/regex_slow.py
++++ b/regular_expression_10/regex_slow.py
+@@ -2,7 +2,10 @@
+ '.' matches any single character
+ '*' matches zero or more of the preceding element
+ 
+-This is the slow version of regex matcher that takes O(2^n) other implentation utilizes Thompsons technique
++Uses Thompsons construction technique to generate the DFA.
++
++Time: O(2^n)
++Space: O(1)
+ 
+ NFA State Machine
+ "ab*c"
