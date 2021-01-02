@@ -2,4 +2,5 @@
 # exclude rought test and output files
 test*
 output
+*.sample
 
